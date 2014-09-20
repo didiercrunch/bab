@@ -1,0 +1,22 @@
+{
+  "name": "bab",
+  "version": "0.1",
+  "authors": [
+    "didier.amyot <didier.amyot@gmail.com>"
+  ],
+  "description": "Easy home to all your web application.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "foundation": "~5.2.1",
+    "angular": "~1.2.14",
+    "angular-route": "~1.2.14",
+    "angular-local-storage": "~0.0.1",
+    "qunit": "~1.14.0",
+    "zepto": "~1.1.3",
+    "angular-sanitize": "~1.2.16",
+    "fontawesome": "~4.0.3"
+  }
+}

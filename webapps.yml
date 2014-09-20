@@ -1,0 +1,15 @@
+---
+
+#  This yaml file where your need to define your services.  Look at the *http bin* 
+#  example for fields one needs to give to define a service
+#
+#  Before wishing to use *bab*, one needs to setup correctly its DNS server to points
+#  the subdomains to the correct ips.  For localhost case, we recommend changing the
+#  /etc/hosts file to have a file similar to the one bellow
+#     127.0.0.1       localhost httpbin.localhost
+
+-
+    name: http bin            # service's name as it will be shown to the user
+    url: http://httpbin.org   # service's url
+    subdomain: httpbin        # subdomain where the service will be reachable
+    image: images/bin.png     # service's imagae path relative to the client directory

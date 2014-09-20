@@ -1,0 +1,20 @@
+<?xml version="1.0"?><svg width="629" height="999" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#ffffff" d="m627,993l1,-988l-627,0l0,986l626,2z"/>
+  <ellipse id="svg_2" fill="#000000" ry="12" rx="189" cy="898" cx="320"/>
+  <ellipse id="svg_3" fill="#000000" ry="411" rx="12" cy="494" cx="543"/>
+  <ellipse id="svg_4" fill="#000000" ry="11" rx="191" cy="94" cx="320"/>
+  <ellipse id="svg_5" fill="#000000" ry="412" rx="12" cy="496" cx="97"/>
+  <ellipse id="svg_6" fill="#000000" ry="156" rx="11" cy="702" cx="155"/>
+  <ellipse id="svg_7" fill="#000000" ry="12" rx="132" cy="841" cx="316"/>
+  <ellipse id="svg_8" fill="#000000" ry="152" rx="12" cy="706" cx="478"/>
+  <ellipse id="svg_9" fill="#000000" ry="11" rx="131" cy="565" cx="318"/>
+  <ellipse id="svg_10" fill="#000000" ry="154" rx="11" cy="297" cx="155"/>
+  <ellipse id="svg_11" fill="#000000" ry="11" rx="126" cy="435" cx="316"/>
+  <path id="svg_12" fill="#000000" d="m487,437l1,-279l-1,-5l-2,-4l-4,-2l-5,-1l-4,1l-4,2l-2,4l-1,4l-1,280l1,5l2,4l4,2l4,1l5,-1l4,-2l2,-4l1,-5z"/>
+  <ellipse id="svg_13" fill="#000000" ry="11" rx="129" cy="157" cx="315"/>
+  <circle id="svg_14" fill="#fff" r="8" cy="493" cx="478"/>
+  <circle id="svg_15" fill="#000000" r="31" cy="493" cx="478"/>
+ </g>
+</svg>
